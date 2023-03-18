@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate here on GitHub.
 - 🤔 I’m looking for help to get better with algorithms.
 - 💬 Ask me about tech related skills.
-- 📫 How to reach me on: Twitter - @LazDMasotDev
+- 📫 How to reach me: Twitter - @LazDMasotDev & Linkedin - linkedin.com/in/lazaro-d-masot
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I need music to code.
