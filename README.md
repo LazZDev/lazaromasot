@@ -1,4 +1,4 @@
-### Hello, I'm Lazaro Masot! 👋🧑‍💼
+### Hello, I'm Lazaro Masot! 👋👨🏻‍💻
 
 - 🔭 I’m currently working on bootcamp projects.
 - 🌱 I’m currently learning Python Full Stack.
