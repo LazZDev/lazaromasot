@@ -7,4 +7,4 @@
 - 💬 Ask me about Front-end development related skills.
 - 📫 How to reach me on: Twitter - @LazDMasotDev
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I need to music to code.
+- ⚡ Fun fact: I need music to code.
