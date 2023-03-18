@@ -9,6 +9,6 @@
 - 📫 How to reach me: [Twitter - @LazDMasotDev](https://twitter.com/LazDMasotDev), [LinkedIn](https://www.linkedin.com/in/lazaro-d-masot)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love to hear music while coding.
-
+<hr>
 
 <img src="https://github-readme-stats.vercel.app/api?username=lazaromasot&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=082032">
