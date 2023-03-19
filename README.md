@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Lazaro! 👨🏻‍💻
-<hr>
+# **Hi there 👋 I'm Lazaro! 👨🏻‍💻**
 
 - 🔭 I’m currently working on bootcamp projects.
 - 🌱 I’m currently learning Python Full Stack.
