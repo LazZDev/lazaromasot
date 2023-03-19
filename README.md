@@ -13,8 +13,7 @@
 ## Front-End Technologies I've used <br> <br><img style="height:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /><img style="height:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /><img style="height:100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <a href="https://github.com/lazaromasot">
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaromasot&layout=compact&theme=react" alt="Top languages" />
-</a>
-<img src="https://github-readme-stats.vercel.app/api?username=lazaromasot&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=082032">
+</a><img src="https://github-readme-stats.vercel.app/api?username=lazaromasot&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=082032">
 <hr>
 <!-- Social Links With follower Counts -->
 <a href="https://twitter.com/LazDMasotDev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LazDMasotDev?label=Twitter!&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
