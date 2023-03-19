@@ -4,7 +4,7 @@
 
 
 - 🌱 I'm currently learning more programming and algorithm skills 
-- 💬 Ask me about Python | HTML | CSS | JavaScript
+- 💬 Ask me about tech related skills
 - 📫 How to reach me: lazz84@gmail.com
 - ⚡ Fun fact: I love to hear music while coding
 <br>
