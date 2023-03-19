@@ -1,8 +1,11 @@
 # **Hi there 👋 I'm Lazaro! 👨🏻‍💻**
 
-- 🌱 I’m currently a Front-End Software Developer, in my journey to become a Python Full Stack Engineer!
+Front-End Software Developer, in my journey to become a Python Full Stack Engineer!
+
+
+- 🌱 I'm currently learning more programming and algorithm skills 
 - 💬 Ask me about Python | HTML | CSS | JavaScript
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lazaro-d-masot)
+- 📫 How to reach me: lazz84@gmail.com
 - ⚡ Fun fact: I love to hear music while coding
 <br>
 
