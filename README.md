@@ -17,4 +17,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lazaromasot&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=082032">
 <hr>
 <!-- Social Links With follower Counts -->
-<a href="https://twitter.com/LazDMasotDev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LazDMasotDev?label=Twitter!&style=for-the-badge&logo=twitter&color=1DA1F2"> </a><a href="https://www.linkedin.com/in/lazaro-d-masot/"><img alt="Linkedin" src="https://img.shields.io/static/v1?style=for-the-badge&logo=linkedin&label=Linkedin&message=29&color=blue">
+<a href="https://twitter.com/LazDMasotDev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LazDMasotDev?label=Twitter!&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
