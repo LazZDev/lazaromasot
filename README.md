@@ -1,6 +1,6 @@
 # **Hi there 👋 I'm Lazaro! 👨🏻‍💻**
 
-Front-End Software Developer, in my journey to become a Python Full Stack Engineer!
+**Front-End Software Developer, in my journey to become a Python Full Stack Engineer!**
 
 
 - 🌱 I'm currently learning more programming and algorithm skills 
