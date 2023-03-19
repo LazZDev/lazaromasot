@@ -17,3 +17,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=lazaromasot&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=082032">
+<hr>
+<img src="https://user-images.githubusercontent.com/116032611/226149937-a37e0c93-d442-405f-aff8-ebe0c7cc5349.png">
+
