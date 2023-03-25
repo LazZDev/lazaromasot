@@ -14,7 +14,7 @@
 <a href="https://github.com/lazaromasot">
   
  <img align="right" height="215" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazaromasot&layout=compact&theme=react" alt="Top languages" />
-</a><img src="https://github-readme-stats.vercel.app/api?username=lazaromasot&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=082032">
+</a><img src="https://github-readme-stats.vercel.app/api?username=lazaromasot&show_icons=true&bg_color=00000000&theme=highcontrast">
 <hr>
 <!-- Social Links With follower Counts -->
 <a href="https://twitter.com/LazDMasotDev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LazDMasotDev?label=Twitter!&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
