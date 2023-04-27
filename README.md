@@ -3,8 +3,8 @@
 **Front-End Software Developer, in my journey to become a Python Full Stack Engineer!**
 
 
-- 🌱 I'm currently learning more programming and algorithm skills 
-- 💬 Ask me about tech related skills
+- 🌱 I'm continously learning about programming and algorithm skills 
+- 💬 Ask me about tech related stuff
 - 📫 How to reach me: lazz84@gmail.com
 - ⚡ Fun fact: I love to hear music while coding
 <br>
