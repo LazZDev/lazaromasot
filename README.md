@@ -1,6 +1,6 @@
 # **Hi there 👋 I'm Lazaro! 👨🏻‍💻**
 
-**Full Stack Developer | Python | Flask | MySQL | HTML | CSS!**
+**Full Stack Software Engineer | Python | Flask | MySQL | HTML | CSS**
 
 
 - 🌱 I'm continously learning about programming and algorithm skills 
