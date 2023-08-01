@@ -1,6 +1,6 @@
 # **👋 Hey there, fellow developers! Welcome to my GitHub world! 👨🏻‍💻**
 
-*💻 About me:* 
+**💻 About me:**
 <br>
 My name is Lazaro and I'm a passionate software developer with a love for building robust and user-friendly web applications.
 
