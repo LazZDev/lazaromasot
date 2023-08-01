@@ -1,8 +1,7 @@
-# **👋 Hey there, fellow developers! Welcome to my GitHub world! 
-I'm Lazaro! 👨🏻‍💻**
+# **👋 Hey there, fellow developers! Welcome to my GitHub world!👨🏻‍💻**
 
 💻 About me:
-I'm a passionate software developer with a love for building robust and user-friendly web applications.
+My name is Lazaro and I'm a passionate software developer with a love for building robust and user-friendly web applications.
 
 🚀 My Journey:
 My journey in software development has been exhilarating, and I've armed myself with an array of tools and technologies to bring my ideas to life. With a strong foundation in Python, I leverage its versatility to build scalable applications.
