@@ -4,35 +4,35 @@
 <br>
 My name is Lazaro and I'm a passionate software developer with a love for building robust and user-friendly web applications.
 
-🚀 My Journey:
+**🚀 My Journey:**
 <br>
 My journey in software development has been exhilarating, and I've armed myself with an array of tools and technologies to bring my ideas to life. With a strong foundation in Python, I leverage its versatility to build scalable applications.
 
-🌐 Web Development:
+**🌐 Web Development:**
 <br>
 Flask has become my go-to web framework for crafting elegant and efficient web apps. Combining Python's power with Flask's simplicity and flexibility, I enjoy creating seamless user experiences.
 
-🎨 Front-End Magic:
+**🎨 Front-End Magic:**
 <br>
 On the front-end, I wield the power of HTML, CSS, and Bootstrap to craft intuitive user interfaces. From responsive designs to interactive components, I strive to create visually appealing and user-friendly applications that captivate users.
 
-🗃️ Database Wizardry:
+**🗃️ Database Wizardry:**
 <br>
 Managing data is essential, and that's where MySQL comes into play. I'm proficient in designing and optimizing database schemas, ensuring that the applications I build are backed by solid and efficient data storage.
 
-📚 Lifelong Learner:
+**📚 Lifelong Learner:**
 <br>
 Software development is a constantly evolving field, and I'm always eager to learn and stay up-to-date with the latest trends and technologies. My GitHub repositories are a reflection of my continuous learning journey, as I experiment with new concepts and techniques.
 
-🤝 Let's Collaborate:
+**🤝 Let's Collaborate:**
 <br>
 I firmly believe in the power of collaboration and open-source projects. If you're working on exciting projects or seeking contributors, count me in! I'm open to collaborating, sharing knowledge, and contributing to impactful software that makes a difference.
 
-💡 Fun Fact:
+**💡 Fun Fact:**
 <br>
 When I'm not immersed in code, you'll often find me exploring virtual worlds and battling mythical creatures in my favorite MMORPGs. 
 
-📫 Get in Touch:
+**📫 Get in Touch:**
 <br>
 Feel free to connect with me here on GitHub or drop me an email at lazz84@gmail.com. Let's share our passion for coding and together build remarkable software that leaves a positive mark on the world!
 
