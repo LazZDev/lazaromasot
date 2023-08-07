@@ -2,7 +2,7 @@
 
 **💻 About me:**
 <br>
-My name is Lazaro! I'm a passionate software developer with a love for building robust and user-friendly web applications.
+My name is Lazaro! I'm a passionate Full Stack Software Developer with a love for building robust and user-friendly web applications.
 
 **🚀 My Journey:**
 <br>
