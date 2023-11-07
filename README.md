@@ -1,4 +1,4 @@
-# **Hi👋 My name is Lazaro Masot 👨🏻‍💻**
+# **Hi... 👋 My name is Lazaro Masot 👨🏻‍💻**
 
 **💻 About me:**
 <br>
