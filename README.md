@@ -1,24 +1,20 @@
-# **Hi, my name is Lazaro Masot 👋**
+# **Hi👋 My name is Lazaro Masot 👨🏻‍💻**
 
 **💻 About me:**
 <br>
-I'm a passionate Front-end Developer with a love for building robust and user-friendly web applications.
+I'm a passionate Front-End Developer with a love for building robust and user-friendly web applications.
 
 **🚀 My Journey:**
 <br>
-My journey in software development has been exhilarating, and I've armed myself with an array of tools and technologies to bring my ideas to life. With a strong foundation in Python, I leverage its versatility to build scalable applications.
+My journey in software development has been exhilarating, and I've armed myself with an array of tools and technologies to bring my ideas to life.
 
 **🌐 Web Development:**
 <br>
-Flask has become my go-to web framework for crafting elegant and efficient web apps. Combining Python's power with Flask's simplicity and flexibility, I enjoy creating seamless user experiences.
+I specialize in using React, a powerful JavaScript library for building dynamic and responsive web applications. With its component-based architecture, I create seamless user experiences.
 
 **🎨 Front-End Magic:**
 <br>
-On the front-end, I wield the power of HTML, CSS, and Bootstrap to craft intuitive user interfaces. From responsive designs to interactive components, I strive to create visually appealing and user-friendly applications that captivate users.
-
-**🗃️ Database Wizardry:**
-<br>
-Managing data is essential, and that's where MySQL comes into play. I'm proficient in designing and optimizing database schemas, ensuring that the applications I build are backed by solid and efficient data storage.
+On the front-end, I wield the power of HTML, CSS, and Tailwind CSS to craft intuitive user interfaces. From responsive designs to interactive components, I strive to create visually appealing and user-friendly applications that captivate users.
 
 **📚 Lifelong Learner:**
 <br>
@@ -30,11 +26,11 @@ I firmly believe in the power of collaboration and open-source projects. If you'
 
 **💡 Fun Fact:**
 <br>
-When I'm not immersed in code, you'll often find me exploring virtual worlds and battling mythical creatures in my favorite MMORPGs. 
+When I'm not immersed in code, you'll often find me exploring virtual worlds and battling mythical creatures in my favorite MMORPGs.
 
 **📫 Get in Touch:**
 <br>
-Feel free to connect with me here on GitHub or drop me an email at lazz84@gmail.com. Let's share our passion for coding and together build remarkable software that leaves a positive mark on the world!
+Feel free to connect with me here on GitHub or drop me an email at lazdevzone@gmail.com. Let's share our passion for coding and together build remarkable software that leaves a positive mark on the world!
 
 Happy coding! 😄
 
