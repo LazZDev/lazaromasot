@@ -44,4 +44,4 @@ Happy coding! 😄
 </a><img src="https://github-readme-stats.vercel.app/api?username=lazaromasot&show_icons=true&bg_color=00000000&theme=dark">
 <hr>
   <!-- Social Links With Follower Counts -->
-<a href="https://twitter.com/LazDMasotDev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LazDMasotDev?label=Twitter!&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
+<a href="https://twitter.com/LazZDev"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/LazDMasotDev?label=Twitter!&style=for-the-badge&logo=twitter&color=1DA1F2"> </a>
