@@ -8,10 +8,6 @@ I'm a passionate Front-End Developer with a love for building robust and user-fr
 <br>
 My journey in software development has been exhilarating, and I've armed myself with an array of tools and technologies to bring my ideas to life.
 
-**🌐 Web Development:**
-<br>
-I specialize in using React, a powerful JavaScript library for building dynamic and responsive web applications. With its component-based architecture, I create seamless user experiences.
-
 **🎨 Front-End Magic:**
 <br>
 On the front-end, I wield the power of HTML, CSS, Tailwind CSS, and JavaScript to craft intuitive user interfaces. From responsive designs to interactive components, I strive to create visually appealing and user-friendly applications that captivate users.
