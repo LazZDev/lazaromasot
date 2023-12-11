@@ -14,7 +14,7 @@ I specialize in using React, a powerful JavaScript library for building dynamic 
 
 **🎨 Front-End Magic:**
 <br>
-On the front-end, I wield the power of HTML, CSS, and Tailwind CSS to craft intuitive user interfaces. From responsive designs to interactive components, I strive to create visually appealing and user-friendly applications that captivate users.
+On the front-end, I wield the power of HTML, CSS, Tailwind CSS, and JavaScript to craft intuitive user interfaces. From responsive designs to interactive components, I strive to create visually appealing and user-friendly applications that captivate users.
 
 **📚 Lifelong Learner:**
 <br>
